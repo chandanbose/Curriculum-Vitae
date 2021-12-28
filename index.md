@@ -14,12 +14,12 @@ Scotland, U.K. <br/>
 <a href="chandan.bose@ed.ac.uk">chandan.bose@ed.ac.uk</a> - +44 (0) 7447270406
 
 <div id="webaddress">
-  <a href="https://davewhipp.github.io"><i class="fas fa-home"></i> davewhipp.github.io</a> - 
-  <a href="http://www.helsinki.fi/geodynamics"><i class="fas fa-users"></i> www.helsinki.fi/geodynamics (group)</a><br/>
-  <a href="https://github.com/davewhipp"><i class="fab fa-github"></i> davewhipp</a> - 
-  <a href="https://orcid.org/0000-0002-3820-6886"><i class="ai ai-orcid"></i> 0000-0002-3820-6886</a> - 
-  <a href="https://www.researchgate.net/profile/David_Whipp"><i class="ai ai-researchgate"></i> David_Whipp</a> - 
-  <a href="https://twitter.com/dave_whipp"><i class="fab fa-twitter"></i> @dave_whipp</a>
+  <a href="https://chandanbose.com"><i class="fas fa-home"></i> www.chandanbose.com</a> - 
+  <a href="http://"><i class="fas fa-users"></i> VOILAb Group </a><br/>
+  <a href="https://github.com/chandanbose"><i class="fab fa-github"></i> chandanbose </a> - 
+  <a href="https://orcid.org/my-orcid?orcid=0000-0001-5166-9968"><i class="ai ai-orcid"></i> 0000-0001-5166-9968 </a> - 
+  <a href="https://www.researchgate.net/profile/Chandan-Bose-5"><i class="ai ai-researchgate"></i> Chandan Bose </a> - 
+  <a href="https://twitter.com/cbose1991"><i class="fab fa-twitter"></i> @cbose1991</a>
 </div>
 
 ## Education
