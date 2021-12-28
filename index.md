@@ -2,7 +2,7 @@
 layout: cv
 title: Chandan Bose's CV
 ---
-# Chandan Bose, Ph.D.
+## Chandan Bose, Ph.D.
 Postdoctoral Research Associate, University of Edinburgh
 
 
@@ -15,7 +15,7 @@ Scotland, U.K. <br/>
 
 <div id="webaddress">
   <a href="https://chandanbose.com"><i class="fas fa-home"></i> www.chandanbose.com</a> - 
-  <a href="http://"><i class="fas fa-users"></i> VOILAb Group </a><br/>
+  <a href="https://voilab.eng.ed.ac.uk/"><i class="fas fa-users"></i> VOILAb Group </a><br/>
   <a href="https://github.com/chandanbose"><i class="fab fa-github"></i> chandanbose </a> - 
   <a href="https://orcid.org/my-orcid?orcid=0000-0001-5166-9968"><i class="ai ai-orcid"></i> 0000-0001-5166-9968 </a> - 
   <a href="https://www.researchgate.net/profile/Chandan-Bose-5"><i class="ai ai-researchgate"></i> Chandan Bose </a> - 
