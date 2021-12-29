@@ -5,7 +5,9 @@ title: Chandan Bose's CV
 
 ##### **CV (Last updated: December 2021)**
 
-# Chandan Bose, \small{Ph.D.}
+# <p style="font-family: times, serif; font-size:11pt; font-style:italic">
+  Chandan Bose, Ph.D.
+</p>
 Post-Doctoral Research Associate, University of Edinburgh
 
 
