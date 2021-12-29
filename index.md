@@ -75,7 +75,7 @@ J15. Dheeraj Tripathi\*, Sai Vishal\*, **Chandan Bose**, and J Venkatramani. Sta
 
 J14. Sai Vishal\*, Ashwad Raaj\*, **Chandan Bose**, J Venkatramani, and Grigorios Dimitriadis. Numerical investigation of discontinuity-induced bifurcations in an aeroelastic system with coupled non-smooth nonlinearities. *Nonlinear Dynamics*, **under review**.
 
-J13. Chhote Lal Shah, Dipanjan Majumdar, **Chandan Bose**, and Sunetra Sarkar. Chordwise flexible aft-tail suppresses jet-switching by reinstating wake periodicity in a flapping foil. *Journal of Fluid Mechanics*, **revised**.
+J13. Chhote Lal Shah, Dipanjan Majumdar, **Chandan Bose**, and Sunetra Sarkar. Chordwise flexible aft-tail suppresses jet-switching by reinstating wake periodicity in a flapping foil. <span style="color:blue">*Journal of Fluid Mechanics*</span>, **revised**.
 
 J12. Dipanjan Majumdar, **Chandan Bose**, and Sunetra Sarkar. Transition boundaries and an order-to-chaos map for the flow-field past a flapping foils. *Journal of Fluid Mechanics*, **revised**.
 
