@@ -3,10 +3,10 @@ layout: cv
 title: Chandan Bose's CV
 ---
 
-> ##### **CV (Last updated: December 2021)**
+>  **CV (Last updated: December 2021)**
 
-## Chandan Bose, Ph.D.
-Post-Doctoral Research Associate, University of Edinburgh
+# Chandan Bose, Ph.D.
+*Post-Doctoral Research Associate, University of Edinburgh*
 
 
 <a href="https://voilab.eng.ed.ac.uk/">Vortex Interaction Laboratory</a>, School of Engineering, Institute for Energy Systems <br/>
