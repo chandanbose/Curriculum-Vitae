@@ -3,10 +3,10 @@ layout: cv
 title: Chandan Bose's CV
 ---
 # Chandan Bose, Ph.D.
-Postdoctoral Research Associate, University of Edinburgh
+Post-Doctoral Research Associate, University of Edinburgh
 
 
-<a href="https://voilab.eng.ed.ac.uk/"> Vortex Interaction Laboratory </a>, School of Engineering, Institute for Energy Systems <br/>
+<a href="https://voilab.eng.ed.ac.uk/">Vortex Interaction Laboratory</a>, School of Engineering, Institute for Energy Systems <br/>
 Alrick Building, The King's Buildings <br/>
 Max Born Crescent, Edinburgh EH9 3BF <br/>
 Scotland, U.K. <br/>
@@ -22,6 +22,10 @@ Scotland, U.K. <br/>
   <a href="https://www.researchgate.net/profile/Chandan-Bose-5"><i class="ai ai-researchgate"></i> Chandan Bose </a> - 
   <a href="https://twitter.com/cbose1991"><i class="fab fa-twitter"></i> @cbose1991</a>
 </div>
+
+## Research Interests
+
+Biological Applications of Fluid-Structure Interactions; Dynamic Stall and Nonlinear Aeroelasticity; Turbulent Flows; Multi-Phase Fluid-Structure Interaction Problems; Bio-Propulsion Systems: Flapping Flight of Insects and Swimming of Fishes; Exploiting Nonlinearities in Flow-Induced Energy Harvesting; Nonlinear Dynamics and Chaos.
 
 ## Experience
 
