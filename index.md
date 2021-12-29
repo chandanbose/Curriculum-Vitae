@@ -25,7 +25,7 @@ Scotland, U.K. <br/>
 
 ## Research Interests
 
-Biological Applications of Fluid-Structure Interactions; Dynamic Stall and Nonlinear Aeroelasticity; Turbulent Flows; Multi-Phase Fluid-Structure Interaction Problems; Bio-Propulsion Systems: Flapping Flight of Insects and Swimming of Fishes; Exploiting Nonlinearities in Flow-Induced Energy Harvesting; Nonlinear Dynamics and Chaos.
+Biological Applications of Fluid-Structure Interactions; Dynamic Stall and Nonlinear Aeroelasticity; Turbulent Flows; Multi-Phase Fluid-Structure Interaction; Bio-Propulsion Systems: Flapping Flight of Birds/Insects and Swimming of Fishes; Flow-Induced Energy Harvesting; Nonlinear Dynamics and Chaos.
 
 ## Experience
 
