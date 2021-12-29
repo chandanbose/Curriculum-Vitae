@@ -24,32 +24,32 @@ Scotland, U.K. <br/>
 
 ## Experience
 
-`Sep 2021-present`
+`Sep'21-present`
 **Post-Doctoral Reseach Associate**, *School of Engineering, University of Edinburgh*, Edinburgh, Scotland, United Kingdom.
 
-`Jan 2020 - Sep 2021`
+`Jan'20 - Sep'21`
 **WBI Excellence Post-Doctoral Fellow**, *Department of Aerospace and Mechanical Engineering, University of Liege*, Liege, Belgium.
 
-`Oct 2019 - Dec 2019`
+`Oct'19 - Dec'19`
 **Project Officer**, *Department of Applied Mechanics, Indian Institute of Technology Madras*, Chennai, India.
 
-`Jul 2014 - Sep 2019`
+`Jul'14 - Sep'19`
 **Graduate Research Assistant**, *Department of Applied Mechanics, Indian Institute of Technology Madras*, Chennai, India.
 
-`Aug 2013 - Jun 2014`
+`Aug'13 - Jun'14`
 **Design Engineer (Civil)**, *M. N. Dastur & Co (P) Ltd.*, Kolkata, India.
 
 ## Education
 
 `2014-2019`
-**M.S. & Ph.D.**, *Department of Applied Mechanics, Indian Institute of Technology Madras*, Chennai, India.<br/>
-**Thesis:** *Dynamical Analysis of Unsteady Flow Phenomena around Flapping Wings* <br/>
-**Institute Research Award & V. Ramamurthy Best Thesis Award, IIT Madras; Innovative Thesis Project Award, Indian National Academy of Engineering**
+**M.S. & Ph.D.,Applied Mechanics**, *Indian Institute of Technology Madras*, Chennai, India.<br/>
+**Thesis:** *Dynamical Analysis of Unsteady Flow Phenomena around Flapping Wings*. <br/>
+**Achievements:** *Institute Research Award & V. Ramamurthy Best Thesis Award, IIT Madras; Innovative Thesis Project Award, Indian National Academy of Engineering*.
 
 `2009-2013`
 **B.E., Civil Engineering**, *Jadavpur University*, Kolkata, India.<br/>
-**Final Year Project:** *Design of Civil Structures Subjected to Wind and Earthquake Loads* <br/>
-**First Class Honours; University Gold Medalist**
+**Final Year Project:** *Design of Civil Structures Subjected to Wind and Earthquake Loads*. <br/>
+**Achievements:** *First Class Honours; University Gold Medalist*.
 
 ## Publications
 
