@@ -71,52 +71,18 @@ Biological Applications of Fluid-Structure Interactions; Dynamic Stall and Nonli
 ### Journal articles
 
 
-**D. M. Whipp**<sup>&dagger;</sup>, D. A. Kellett<sup>&dagger;</sup>, and I. Coutand. Short communication: Modelling competing effects of cooling rate, grain size and radiation damage in low temperature thermochronometers. *Geochronology*, **under review**.
+J15. Dheeraj Tripathi\*, Sai Vishal\*, **Chandan Bose**, and J Venkatramani. Stall-induced fatigue damage analysis of nonlinear aeroelastic systems subjected to randomly fluctuating inflow. *International Journal of Nonlinear Mechanics*, **under review**.
 
-S. Fan, M. Murphy, **D. M. Whipp**, J. Saylor, P. Copeland, A. Hoxey, M. Taylor, and D. Stockli. 	Megathrust Heterogeneity, Crustal Accretion, and a Topographic Embayment in Western Nepal Himalaya: Insights from the Inversion of Thermochronological Data. *Tectonics*, **under review**.
+J14. Sai Vishal\*, Ashwad Raaj\*, **Chandan Bose**, J Venkatramani, and Grigorios Dimitriadis. Numerical investigation of discontinuity-induced bifurcations in an aeroelastic system with coupled non-smooth nonlinearities. *Nonlinear Dynamics*, **under review**.
 
-M. Ghadimi, A. Hooper, A. Hojati Malekshah, and **D. M. Whipp**. Deformation of the Taleqan Dam, Iran, from InSAR and ground observations. *Remote Sensing*, **in revision**.
+J13. Chhote Lal Shah, Dipanjan Majumdar, **Chandan Bose**, and Sunetra Sarkar. Chordwise flexible aft-tail suppresses jet-switching by reinstating wake periodicity in a flapping foil. *Journal of Fluid Mechanics*, **revised**.
 
-D. Grujic, M. Bernet, I. Coutand, and **D. M. Whipp**. Fast crustal cooling caused by the end of exhumation. *Geology*, **in revision**.
+J12. Dipanjan Majumdar, **Chandan Bose**, and Sunetra Sarkar. Transition boundaries and an order-to-chaos map for the flow-field past a flapping foils. *Journal of Fluid Mechanics*, **revised**.
 
 `2021`
-A. E. Rintamäki, G. Hillers, T. A. T. Vuorinen, T. Luhta, J. M. Pownall, C. Tsarsitalidou, K. Galvin, J. Keskinen, J. T. Kortström, T.-C. Lin, P. B. Mäntyniemi, K. J. Oinonen, T. J. Oksanen, P. J. Seipäjärvi, G. Taylor, M. R. Uski, A. I. Voutilainen, and **D. M. Whipp**. A seismic network to monitor the 2020 EGS stimulation in the Espoo/Helsinki area, southern Finland. *Seismological Research Letters*, **accepted**.
 
-`2020`
-J. Schütt\* and **D. M. Whipp**. Controls on continental strain partitioning above an oblique subduction zone, Northern Andes. *Tectonics*. doi: [10.1029/2019TC005886](https://doi.org/10.1029/2019TC005886), 2020.
+J11. Sai Vishal\*, Ashwad Raaj\*, **Chandan Bose**, and J Venkatramani. Routes to Synchronization in a pitch-plunge aeroelastic system with coupled structural and aerodynamic nonlinearities. *International Journal of Nonlinear Mechanics*, Volume 135, 103766, doi: [10.1016/j.ijnonlinmec.2021.103766](https://doi.org/10.1016/j.ijnonlinmec.2021.103766), 2021.
 
-D. Grujic, K. Ashley, M. Coble, I. Coutand, D. Kellett, K. Larson, **D. M. Whipp**, M. Gao, and N. Whynot. Deformational temperatures across the Lesser Himalayan Sequence in eastern Bhutan and their implications for the deformation history of the Main Central Thrust. *Tectonics*. [10.1029/2019TC005914](https://doi.org/10.1029/2019TC005914), 2020.
-
-`2019`
-A. Koptev, T. A. Ehlers, M. Nettesheim, and **D. M. Whipp**. Response of a rheologically stratified lithosphere to subduction of an indenter-shaped plate: Insights into localized exhumation at orogen syntaxes. *Tectonics*. doi: [10.1029/2018TC005455](https://doi.org/10.1029/2018TC005455), 2019.
-
-**D. M. Whipp** and T. A. Ehlers. Quantifying landslide frequency and sediment residence time in the Nepal Himalaya. *Science Advances*, *5*(4). doi: [10.1126/sciadv.aav3482](https://dx.doi.org/10.1126/sciadv.aav3482), 2019.
-
-`2018`
-M. Nettesheim\*, T. A. Ehlers, **D. M. Whipp**, and A. Koptev. The influence of upper-plate advance and erosion on overriding
-plate deformation in orogen syntaxes. *Solid Earth*, 9, 1207-1224. doi: [10.5194/se-9-1207-2018](https://doi.org/10.5194/se-9-1207-2018), 2018.
-
-`2016`
-K. R. Landry\*, I. Coutand, **D. M. Whipp**, D Grujic, and J. K. Hourigan. Late Neogene tectonically driven crustal exhumation of the Sikkim Himalaya: Insights from inversion of multithermochronologic data. *Tectonics*, *35*(3):833–859. doi: [10.1002/2015TC004102](https://dx.doi.org/10.1002/2015TC004102), 2016.
-
-`2014`
-**D. M. Whipp**, C. Beaumont, and J. Braun. Feeding the 'aneurysm': Orogen-parallel mass transport into Nanga Parbat and the western Himalayan syntaxis. *Journal of Geophysical Research: Solid Earth*, *119*(6):5077–5096. doi: [10.1002/2013JB010929](https://dx.doi.org/10.1002/2013JB010929), 2014.
-
-M. A. Murphy, M. H. Taylor, J. Gosse, C. R. P. Silver, **D. M. Whipp**, and C. Beaumont. Limit of strain partitioning in the Himalaya marked by large earthquakes in western Nepal. *Nature Geoscience*, *7*(1):38–42. doi: [10.1038/ngeo2017](https://dx.doi.org/10.1038/ngeo2017), 2014.
-
-I. Coutand, **D. M. Whipp**, D. Grujic, M. Bernet, M. G. Fellin, B. Bookhagen, K. R. Landry, S. K. Ghalley, and C. Duncan. Geometry and kinematics of the Main Himalayan Thrust and Neogene crustal exhumation in the Bhutanese Himalaya derived from inversion of multithermochronologic data. *Journal of Geophysical Research: Solid Earth*, *119*(2):1446–1481. doi: [10.1002/2013JB010891](https://dx.doi.org/10.1002/2013JB010891), 2014.
-
-`2009`
-**D. M. Whipp**, T. A. Ehlers, J. Braun, and C. D. Spath. Effects of exhumation kinematics and topographic evolution on detrital thermochronometer data. *Journal of Geophysical Research: Earth Surface*, *114*(F4). doi: [10.1029/2008JF001195](https://dx.doi.org/10.1029/2008JF001195), 2009.
-
-T. F. Schildgen, T. A. Ehlers, **D. M. Whipp**, M. C. van Soest, K. X. Whipple, and K. V. Hodges. Quantifying canyon incision and Andean Plateau surface uplift, southwest Peru: A thermochronometer and numerical modeling approach. *Journal of Geophysical Research: Earth Surface*, *114*(F4). doi: [10.1029/2009JF001305](https://dx.doi.org/10.1029/2009JF001305), 2009.
-
-`2007`
-**D. M. Whipp** and T. A. Ehlers. Influence of groundwater flow on thermochronometer-derived exhumation rates in the central Nepalese Himalaya. *Geology*, *35*(9):851–854. doi: [10.1130/G23788A.1](https://dx.doi.org/10.1130/G23788A.1),  2007.
-
-K. W. Huntington, T. A. Ehlers, K. V. Hodges, and **D. M. Whipp**. Topography, exhumation pathway, age uncertainties, and the interpretation of erosion rates from thermochronometer data. *Tectonics*, *26*(4) . doi: [10.1029/2007TC002108](http://dx.doi.org/10.1029/2007TC002108), 2007.
-
-**D. M. Whipp**, T. A. Ehlers, A. E. Blythe, K. W. Huntington, K. V. Hodges, and D. W. Burbank. Plio-Quaternary exhumation history of the central Nepalese Himalaya: 2. Thermo-kinematic and thermochronometer age prediction model. *Tectonics*, *26*(3). doi: [10.1029/2006TC001991](https://dx.doi.org/10.1029/2006TC001991), 2007.
 
 ## Grants and funding
 
