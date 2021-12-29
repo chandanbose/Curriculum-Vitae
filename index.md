@@ -33,12 +33,10 @@ Biological Applications of Fluid-Structure Interactions; Dynamic Stall and Nonli
 ## Experience
 
 `Sep'21 - present`
-**Post-Doctoral Reseach Associate**, *School of Engineering, University of Edinburgh*, Edinburgh, Scotland, United Kingdom.
-- Working on the *ERC CoG Project [Dandidrone](https://voilab.eng.ed.ac.uk/dandidrone)* with [Dr. Ignazio Maria Viola](https://www.eng.ed.ac.uk/about/people/dr-ignazio-maria-viola).
+**Post-Doctoral Reseach Associate**, *School of Engineering, University of Edinburgh*, Edinburgh, Scotland, United Kingdom (Working on the *ERC CoG Project [Dandidrone](https://voilab.eng.ed.ac.uk/dandidrone)* with [Dr. Ignazio Maria Viola](https://www.eng.ed.ac.uk/about/people/dr-ignazio-maria-viola)).
 
 `Jan'20 - Sep'21`
-**Post-Doctoral Fellow**, *Department of Aerospace and Mechanical Engineering, University of Liege*, Liege, Belgium.
-- Awarded the *Wallonie Bruxelles International Excellence Post-Doctoral Fellowship & FNRS Post-Doctoral Fellowship* to work with [Prof. Grigorios Dimitriadis](http://www.ltas-aea.ulg.ac.be/cms/index.php?page=dimitriadis) and [Prof. Vincent Terrapon](https://www.mtfc.uliege.be/cms/c_3978260/fr/mtfc-repertoire?uid=U214781).
+**Post-Doctoral Fellow**, *Department of Aerospace and Mechanical Engineering, University of Liege*, Liege, Belgium (Awarded the *Wallonie Bruxelles International Excellence Post-Doctoral Fellowship & FNRS Post-Doctoral Fellowship* to work with [Prof. Grigorios Dimitriadis](http://www.ltas-aea.ulg.ac.be/cms/index.php?page=dimitriadis) and [Prof. Vincent Terrapon](https://www.mtfc.uliege.be/cms/c_3978260/fr/mtfc-repertoire?uid=U214781)).
 
 `Oct'19 - Dec'19`
 **Project Officer**, *Department of Applied Mechanics, Indian Institute of Technology Madras*, Chennai, India.
