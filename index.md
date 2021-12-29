@@ -17,8 +17,8 @@ Scotland, U.K. <br/>
   <a href="https://chandanbose.com"><i class="fas fa-home"></i> www.chandanbose.com</a> - 
   <a href="https://voilab.eng.ed.ac.uk/"><i class="fas fa-users"></i> VOILAb Group </a> -
   <a href="https://github.com/chandanbose"><i class="fab fa-github"></i> chandanbose </a> - 
-  <a href="https://orcid.org/my-orcid?orcid=0000-0001-5166-9968"><i class="ai ai-orcid"></i> 0000-0001-5166-9968 </a> - 
-  <a href="https://www.linkedin.com/in/cbose1991/"><i class="fab fa-linkedin-square"></i> Chandan Bose </a> - 
+  <a href="https://orcid.org/my-orcid?orcid=0000-0001-5166-9968"><i class="ai ai-orcid"></i> 0000-0001-5166-9968 </a> <br/>
+  <a href="https://www.linkedin.com/in/cbose1991/"><i class="fab fa-linkedin-in"></i> Chandan Bose </a> - 
   <a href="https://www.researchgate.net/profile/Chandan-Bose-5"><i class="ai ai-researchgate"></i> Chandan Bose </a> - 
   <a href="https://twitter.com/cbose1991"><i class="fab fa-twitter"></i> @cbose1991</a>
 </div>
