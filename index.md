@@ -81,7 +81,9 @@ J12. Dipanjan Majumdar, **Chandan Bose**, and Sunetra Sarkar. Transition boundar
 
 `2021`
 
-J11. Sai Vishal\*, Ashwad Raaj\*, **Chandan Bose**, and J Venkatramani. Routes to Synchronization in a pitch-plunge aeroelastic system with coupled structural and aerodynamic nonlinearities. *International Journal of Nonlinear Mechanics*, Volume 135, 103766, doi: [10.1016/j.ijnonlinmec.2021.103766](https://doi.org/10.1016/j.ijnonlinmec.2021.103766), 2021.
+J11. Sai Vishal\*, Ashwad Raaj\*, **Chandan Bose**, and J Venkatramani. Routes to Synchronization in a pitch-plunge aeroelastic system with coupled structural and aerodynamic nonlinearities. *International Journal of Nonlinear Mechanics*, Volume 135, 103766, DOI: [10.1016/j.ijnonlinmec.2021.103766](https://doi.org/10.1016/j.ijnonlinmec.2021.103766), 2021.
+
+J10. Junlei Wang, Shanghao Gu, Abdessattar Abdelkefi, **Chandan Bose**<sup>&dagger;</sup>. Enhancing Piezoelectric Energy Harvesting from the Flow-Induced Vibration of a Circular Cylinder Using Dual Splitters. *Smart Materials and Structures*, Volume 30, 05LT01, DOI: [10.1088/1361-665X/abefb5](https://doi.org/10.1088/1361-665X/abefb5), 2021.
 
 
 ## Grants and funding
