@@ -2,7 +2,7 @@
 layout: cv
 title: Chandan Bose's CV
 ---
-## Chandan Bose, Ph.D.
+# Chandan Bose, Ph.D.
 Postdoctoral Research Associate, University of Edinburgh
 
 
@@ -22,6 +22,23 @@ Scotland, U.K. <br/>
   <a href="https://twitter.com/cbose1991"><i class="fab fa-twitter"></i> @cbose1991</a>
 </div>
 
+## Experience
+
+`September 2021-present`
+**Post-Doctoral Reseach Associate**, *School of Engineering, University of Edinburgh*, Edinburgh, Scotland, United Kingdom.
+
+`January 2020 - September 2021`
+**WBI Excellence Post-Doctoral Fellow**, *Department of Aerospace and Mechanical Engineering, University of Liege*, Liege, Belgium.
+
+`October 2019 - December 2019`
+**Project Officer**, *Department of Applied Mechanics, Indian Institute of Technology Madras*, Chennai, India.
+
+`July 2014 - September 2019`
+**Graduate Research Assistant**, *Department of Applied Mechanics, Indian Institute of Technology Madras*, Chennai, India.
+
+`August 2013 - June 2014`
+**Design Engineer (Civil)**, *M. N. Dastur & Co (P) Ltd.*, Kolkata, India.
+
 ## Education
 
 `2003-2008`
@@ -29,38 +46,6 @@ Scotland, U.K. <br/>
 
 `1998-2002`
 **B.S., Geology (Physics minor)**, *University of Michigan*, Ann Arbor, MI, USA.
-
-## Experience
-
-`2021-present`
-**Professor**, *Department of Geosciences and Geography, and Helsinki Institute of Sustainability Science (HELSUS), University of Helsinki*, Helsinki, Finland.
-
-`2013-2023`
-**Adjunct of the Faculty of Graduate Studies**, *Department of Earth Sciences, Dalhousie University*, Halifax, NS, Canada.
-
-`2017-2020`
-**Associate professor**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
-
-`2013-2016`
-**Assistant professor**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
-
-`2009-2012`
-**Postdoctoral fellow**, *Department of Oceanography, Dalhousie University*, Halifax, NS, Canada.
-
-`2008-2009`
-**Postdoctoral fellow**, *Géosciences Rennes, University of Rennes 1*, Rennes, France.
-
-`2007`
-**Geoscientist (intern)**, *ExxonMobil Exploration Company*, Houston, TX, USA.
-
-`2003-2008`
-**Research assistant**, *Department of Geological Sciences, University of Michigan*, Ann Arbor, MI, USA.
-
-`2001-2003`
-**Laboratory assistant**, *Department of Geological Sciences, University of Michigan*, Ann Arbor, MI, USA.
-
-`2000-2002`
-**Tech consultant and Sites rover**, *Campus Computing Sites, University of Michigan*, Ann Arbor, MI, USA.
 
 ## Publications
 
