@@ -15,16 +15,17 @@ Scotland, U.K. <br/>
 
 <div id="webaddress">
   <a href="https://chandanbose.com"><i class="fas fa-home"></i> www.chandanbose.com</a> - 
-  <a href="https://voilab.eng.ed.ac.uk/"><i class="fas fa-users"></i> VOILAb Group </a><br/>
+  <a href="https://voilab.eng.ed.ac.uk/"><i class="fas fa-users"></i> VOILAb Group </a> -
   <a href="https://github.com/chandanbose"><i class="fab fa-github"></i> chandanbose </a> - 
   <a href="https://orcid.org/my-orcid?orcid=0000-0001-5166-9968"><i class="ai ai-orcid"></i> 0000-0001-5166-9968 </a> - 
+  <a href="https://www.linkedin.com/in/cbose1991/"><i class="fab fa-linkedin-square"></i> Chandan Bose </a> - 
   <a href="https://www.researchgate.net/profile/Chandan-Bose-5"><i class="ai ai-researchgate"></i> Chandan Bose </a> - 
   <a href="https://twitter.com/cbose1991"><i class="fab fa-twitter"></i> @cbose1991</a>
 </div>
 
 ## Experience
 
-`Sep'21-present`
+`Sep'21 - present`
 **Post-Doctoral Reseach Associate**, *School of Engineering, University of Edinburgh*, Edinburgh, Scotland, United Kingdom.
 
 `Jan'20 - Sep'21`
@@ -42,7 +43,7 @@ Scotland, U.K. <br/>
 ## Education
 
 `2014-2019`
-**M.S. & Ph.D.,Applied Mechanics**, *Indian Institute of Technology Madras*, Chennai, India.<br/>
+**M.S. & Ph.D., Applied Mechanics**, *Indian Institute of Technology Madras*, Chennai, India.<br/>
 **Thesis:** *Dynamical Analysis of Unsteady Flow Phenomena around Flapping Wings*. <br/>
 **Achievements:** *Institute Research Award & V. Ramamurthy Best Thesis Award, IIT Madras; Innovative Thesis Project Award, Indian National Academy of Engineering*.
 
@@ -53,11 +54,11 @@ Scotland, U.K. <br/>
 
 ## Publications
 
-*Publication list also available [in Google Scholar](https://scholar.google.fi/citations?user=FvYhWOAAAAAJ). \* = student as lead author, &dagger; = shared first authorship.*
+*Publication list also available in [Google Scholar](https://scholar.google.com/citations?user=pj618AMAAAAJ&hl=en). \* = student as lead author, &dagger; = corresponding author*
 
+<!--
 ### Books
-
-H. Tenkanen, V. Heikinheimo, and **D. M. Whipp**. *Introduction to Python for Geographic Data Analysis*. CRC Press (expected publication in 2022). ***In progress***, online at [https://pythongis.org/](https://pythongis.org/).
+-->
 
 <!--
 ### Journal articles, in preparation
@@ -65,9 +66,6 @@ H. Tenkanen, V. Heikinheimo, and **D. M. Whipp**. *Introduction to Python for Ge
 
 ### Journal articles
 
-<!-- 
-**D. M. Whipp**, I. Coutand, B. Bookhagen, and D. Grujic. Fingerprints of tectonic and erosional processes in modern river sands from the Himalaya of western Bhutan. *Journal of Geophysical Research: Earth Surface*, **In preparation**.
--->
 
 **D. M. Whipp**<sup>&dagger;</sup>, D. A. Kellett<sup>&dagger;</sup>, and I. Coutand. Short communication: Modelling competing effects of cooling rate, grain size and radiation damage in low temperature thermochronometers. *Geochronology*, **under review**.
 
