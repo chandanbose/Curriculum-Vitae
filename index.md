@@ -22,6 +22,14 @@ Scotland, U.K. <br/>
   <a href="https://twitter.com/cbose1991"><i class="fab fa-twitter"></i> @cbose1991</a>
 </div>
 
+## Education
+
+`2003-2008`
+**Ph.D., Geology**, *University of Michigan*, Ann Arbor, MI, USA.
+
+`1998-2002`
+**B.S., Geology (Physics minor)**, *University of Michigan*, Ann Arbor, MI, USA.
+
 ## Experience
 
 `September 2021-present`
@@ -38,14 +46,6 @@ Scotland, U.K. <br/>
 
 `August 2013 - June 2014`
 **Design Engineer (Civil)**, *M. N. Dastur & Co (P) Ltd.*, Kolkata, India.
-
-## Education
-
-`2003-2008`
-**Ph.D., Geology**, *University of Michigan*, Ann Arbor, MI, USA.
-
-`1998-2002`
-**B.S., Geology (Physics minor)**, *University of Michigan*, Ann Arbor, MI, USA.
 
 ## Publications
 
