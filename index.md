@@ -52,12 +52,12 @@ Biological Applications of Fluid-Structure Interactions; Dynamic Stall and Nonli
 `2014-2019`
 **M.S. & Ph.D., Applied Mechanics**, *Indian Institute of Technology Madras*, Chennai, India.<br/>
 **Thesis:** *Dynamical Analysis of Unsteady Flow Phenomena around Flapping Wings*. <br/>
-**Achievements:** *Institute Research Award & V. Ramamurthy Best Thesis Award, IIT Madras; Innovative Thesis Project Award, Indian National Academy of Engineering*.
+**Achievements:** <span style="color:blue">*Institute Research Award & V. Ramamurthy Best Thesis Award, IIT Madras; Innovative Thesis Project Award, Indian National Academy of Engineering*</span>.
 
 `2009-2013`
 **B.E., Civil Engineering**, *Jadavpur University*, Kolkata, India.<br/>
 **Final Year Project:** *Design of Civil Structures Subjected to Wind and Earthquake Loads*. <br/>
-**Achievements:** *First Class Honours; University Gold Medalist*.
+**Achievements:** <span style="color:blue">*First Class Honours; University Gold Medalist*</span>.
 
 ## Publications
 
