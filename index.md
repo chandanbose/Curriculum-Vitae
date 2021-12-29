@@ -42,12 +42,14 @@ Scotland, U.K. <br/>
 ## Education
 
 `2014-2019`
-**M.S. & Ph.D.**, *Department of Applied Mechanics, Indian Institute of Technology Madras*, Chennai, India.
-*Thesis: Dynamical Analysis of Unsteady Flow Phenomena around Flapping Wings (Best Thesis Award)*
+**M.S. & Ph.D.**, *Department of Applied Mechanics, Indian Institute of Technology Madras*, Chennai, India.<br/>
+**Thesis:** *Dynamical Analysis of Unsteady Flow Phenomena around Flapping Wings* <br/>
+**Institute Research Award & V. Ramamurthy Best Thesis Award, IIT Madras; Innovative Thesis Project Award, Indian National Academy of Engineering**
 
 `2009-2013`
-**B.E., Civil Engineering**, *Jadavpur University*, Kolkata, India.
-*First Class Honors, University Gold Medalist*
+**B.E., Civil Engineering**, *Jadavpur University*, Kolkata, India.<br/>
+**Final Year Project:** *Design of Civil Structures Subjected to Wind and Earthquake Loads* <br/>
+**First Class Honours; University Gold Medalist**
 
 ## Publications
 
