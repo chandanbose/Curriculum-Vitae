@@ -71,19 +71,19 @@ Biological Applications of Fluid-Structure Interactions; Dynamic Stall and Nonli
 ### Journal articles
 
 
-J15. Dheeraj Tripathi\*, Sai Vishal\*, **Chandan Bose**, and J Venkatramani. Stall-induced fatigue damage analysis of nonlinear aeroelastic systems subjected to randomly fluctuating inflow. *International Journal of Nonlinear Mechanics*, **under review**.
+J15. Dheeraj Tripathi\*, Sai Vishal\*, **Chandan Bose**, and J Venkatramani. Stall-induced fatigue damage analysis of nonlinear aeroelastic systems subjected to randomly fluctuating inflow. <span style="color:blue">*International Journal of Nonlinear Mechanics*</span>, **under review**.
 
-J14. Sai Vishal\*, Ashwad Raaj\*, **Chandan Bose**, J Venkatramani, and Grigorios Dimitriadis. Numerical investigation of discontinuity-induced bifurcations in an aeroelastic system with coupled non-smooth nonlinearities. *Nonlinear Dynamics*, **under review**.
+J14. Sai Vishal\*, Ashwad Raaj\*, **Chandan Bose**, J Venkatramani, and Grigorios Dimitriadis. Numerical investigation of discontinuity-induced bifurcations in an aeroelastic system with coupled non-smooth nonlinearities. <span style="color:blue">*Nonlinear Dynamics*</span>, **under review**.
 
 J13. Chhote Lal Shah, Dipanjan Majumdar, **Chandan Bose**, and Sunetra Sarkar. Chordwise flexible aft-tail suppresses jet-switching by reinstating wake periodicity in a flapping foil. <span style="color:blue">*Journal of Fluid Mechanics*</span>, **revised**.
 
-J12. Dipanjan Majumdar, **Chandan Bose**, and Sunetra Sarkar. Transition boundaries and an order-to-chaos map for the flow-field past a flapping foils. *Journal of Fluid Mechanics*, **revised**.
+J12. Dipanjan Majumdar, **Chandan Bose**, and Sunetra Sarkar. Transition boundaries and an order-to-chaos map for the flow-field past a flapping foils. <span style="color:blue">*Journal of Fluid Mechanics*</span>, **revised**.
 
 `2021`
 
-J11. Sai Vishal\*, Ashwad Raaj\*, **Chandan Bose**, and J Venkatramani. Routes to Synchronization in a pitch-plunge aeroelastic system with coupled structural and aerodynamic nonlinearities. *International Journal of Nonlinear Mechanics*, Volume 135, 103766, DOI: [10.1016/j.ijnonlinmec.2021.103766](https://doi.org/10.1016/j.ijnonlinmec.2021.103766), 2021.
+J11. Sai Vishal\*, Ashwad Raaj\*, **Chandan Bose**, and J Venkatramani. Routes to Synchronization in a pitch-plunge aeroelastic system with coupled structural and aerodynamic nonlinearities. <span style="color:blue">*International Journal of Nonlinear Mechanics*</span>, Volume 135, 103766, DOI: [10.1016/j.ijnonlinmec.2021.103766](https://doi.org/10.1016/j.ijnonlinmec.2021.103766), 2021.
 
-J10. Junlei Wang, Shanghao Gu, Abdessattar Abdelkefi, **Chandan Bose**<sup>&dagger;</sup>. Enhancing Piezoelectric Energy Harvesting from the Flow-Induced Vibration of a Circular Cylinder Using Dual Splitters. *Smart Materials and Structures*, Volume 30, 05LT01, DOI: [10.1088/1361-665X/abefb5](https://doi.org/10.1088/1361-665X/abefb5), 2021.
+J10. Junlei Wang, Shanghao Gu, Abdessattar Abdelkefi, **Chandan Bose**<sup>&dagger;</sup>. Enhancing Piezoelectric Energy Harvesting from the Flow-Induced Vibration of a Circular Cylinder Using Dual Splitters. <span style="color:blue">*Smart Materials and Structures*</span>, Volume 30, 05LT01, DOI: [10.1088/1361-665X/abefb5](https://doi.org/10.1088/1361-665X/abefb5), 2021.
 
 
 ## Grants and funding
