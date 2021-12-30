@@ -90,6 +90,9 @@ J11. Sai Vishal\*, Ashwad Raaj\*, **Chandan Bose**, and J Venkatramani. Routes t
 
 J10. Junlei Wang, Shanghao Gu, Abdessattar Abdelkefi, **Chandan Bose**<sup>&dagger;</sup>. Enhancing Piezoelectric Energy Harvesting from the Flow-Induced Vibration of a Circular Cylinder Using Dual Splitters. <span style="color:blue">*Smart Materials and Structures*</span>, Volume 30, 05LT01, DOI: [10.1088/1361-665X/abefb5](https://doi.org/10.1088/1361-665X/abefb5), 2021.
 
+`2021`
+
+J10. **Chandan Bose**, Sayan Gupta, Sunetra Sarkar. Dynamic interlinking between near and far-field wakes behind a pitching-plunging airfoil. <span style="color:blue">*Journal of Fluid Mechanics*</span>, 911, A31, DOI: [10.1063/5.0024084](https://doi.org/10.1063/5.0024084), 2021.
 
 ## Grants and funding
 
