@@ -92,7 +92,23 @@ J10. Junlei Wang, Shanghao Gu, Abdessattar Abdelkefi, **Chandan Bose**<sup>&dagg
 
 `2021`
 
-J10. **Chandan Bose**, Sayan Gupta, Sunetra Sarkar. Dynamic interlinking between near and far-field wakes behind a pitching-plunging airfoil. <span style="color:blue">*Journal of Fluid Mechanics*</span>, 911, A31, DOI: [10.1063/5.0024084](https://doi.org/10.1063/5.0024084), 2021.
+J9. **Chandan Bose**, Sayan Gupta, Sunetra Sarkar. Dynamic interlinking between near and far-field wakes behind a pitching-plunging airfoil. <span style="color:blue">*Journal of Fluid Mechanics*</span>, 911, A31, DOI: [10.1063/5.0024084](https://doi.org/10.1063/5.0024084), 2021.
+
+`2020`
+
+J8. Dipanjan Majumdar, **Chandan Bose**, and Sunetra Sarkar. Effect of gusty inflow on the jet-switching characteristics of a plunging foil. <span style="color:blue">*Physics of Fluids*</span>, 32, 117105, DOI: [10.1063/5.0024084](https://doi.org/10.1063/5.0024084), 2020.
+
+`2020`
+
+J7. Dipanjan Majumdar, **Chandan Bose**, and Sunetra Sarkar. Capturing the Dynamical Transitions in the Flow-field of a Flapping Foil using Immersed Boundary Method. <span style="color:blue">*Journal of Fluids and Structures*</span>, Volume 95, Pages 102999, DOI: [10.1016/j.jfluidstructs.2020.102999](https://doi.org/10.1016/j.jfluidstructs.2020.102999), 2020.
+
+`2019`
+
+J6. **Chandan Bose**, Sayan Gupta, Sunetra Sarkar. Transition to chaos in the flow-induced vibration of a pitching-plunging airfoil at low Reynolds numbers : Ruelle-Takens-Newhouse scenario. <span style="color:blue">*International Journal of Non-Linear Mechanics*</span>, Volume 109, Pages 189 - 203, DOI: [10.1016/j.ijnonlinmec.2018.11.012](https://doi.org/10.1016/j.ijnonlinmec.2018.11.012), 2019.
+
+`2018`
+
+J5. **Chandan Bose**, and Sunetra Sarkar. Investigating chaotic wake dynamics past a flapping airfoil and the role of vortex interactions behind the chaotic transition. <span style="color:blue">*Physics of Fluids*</span>, Volume 30, Issue 4, 047101, DOI: [10.1063/1.5019442](https://aip.scitation.org/doi/10.1063/1.5019442), 2018 (<span style="color:green">*featured as Editor's pick*</span>).
 
 ## Grants and funding
 
